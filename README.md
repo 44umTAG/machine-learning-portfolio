@@ -142,8 +142,6 @@
 
 ### `notebooks/` — Исследование и ML
 
-**Самая важная папка для проверки!** Здесь весь процесс работы с данными.
-
 **[`notebooks/movie_recommendation.ipynb`](./2semestr/Movie%20Recommendation%20System/Recommendation3Last/notebooks/movie_recommendation.ipynb)** — Jupyter Notebook с полным циклом:
 1. Загрузка и исследование данных (EDA)
 2. Очистка и предобработка
@@ -161,7 +159,7 @@
 
 ---
 
-## 📄 Файлы в корне проекта
+## Файлы в корне проекта
 
 | Файл | Назначение |
 |---|---|
